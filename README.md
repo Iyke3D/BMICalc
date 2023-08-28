@@ -29,9 +29,11 @@ Alternatively (and even better option), you can use auto-py-to-exe to generate t
 ![i](https://github.com/Iyke3D/BMICalc/assets/118365903/225649fa-34db-43ea-a2ba-40dcdb0140bc)</br></br>
 
 Notice that python39.dll was added. This will help run the program in older versions of Windows eg Windows 7, 8, 8.1 (probably they have not been updated for a long time. This will avoid generating errors such as the one shown in issues section). </br></br>
-<b>ISSUES<b></br></br>
+<b>ISSUES</b></br></br>
 Please note that your Windows Defender Antivirus (and some other antimalware programs) may block the application from running. This is a false positive error message. Kindly pause the protection for a while and run again. The dependency python39 must be added to avoid errors such as the one shown below:</br></br>
 ![python39 error](https://github.com/Iyke3D/BMICalc/assets/118365903/06156097-36f6-4da1-9ff5-9a56453d7be6)</br></br>
+
+![Failed Message DLL](https://github.com/Iyke3D/BMICalc/assets/118365903/a79a24c9-bc7f-4ed5-8989-b21a0a15a440)</br></br>
 
 The python39 is saved in the AppData folder. As shown in the image below:</br></br>
 ![python39](https://github.com/Iyke3D/BMICalc/assets/118365903/ad3f8419-f0bb-4b8a-b950-2f37750b9b7f)</br></br>
