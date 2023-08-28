@@ -22,7 +22,7 @@ The version is BMIC Ver 1 and any update will be shown here.</br></br>
 To run this file, make sure that python is installed (Using Python 3.9 or more) and press F5 using IDLE IDE. But any IDE like Visual Studio Code or any IDE will do. To convert to an executable (.exe), you have two options:</br></br> 
 <b>STEP 1:</b> First install pyinstaller via the command line or terminal by typing...pip install pyinstaller</br></br>
 <b>STEP 2:</b> Type the following in the command line. </br></br>
-pyinstaller --onefile --windowed --add-data "xi.icon;" BMI.py
+pyinstaller --onefile --windowed --add-data "xi.icon;" BMI.py </br></br>
 <b>STEP 3:</b> Allow pyinstaller to compile the file and add all the resources and dependencies needed to create the executable.</br></br>
 <b>STEP 4:</b> Check the folder and run the exe in another computer. It will successfully run</br></br>
 Alternatively (and even better option), you can use auto-py-to-exe to generate the executable. This normally opens a GUI for compiling your programs. First install auto-py-to-exe by typing the following in the commandline: pip install auto-py-to-exe and then follow the steps as shown below:</br></br>
