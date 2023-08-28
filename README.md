@@ -3,7 +3,7 @@
 <b>PROJECT TITLE</b></br></br> 
 BMI CALCULATOR<br></br>
 <b>DESCRIPTION</b></br></br>
-The BMI Calculator is a GUI program to calculate the user's Body Mass based on their weight and height. The program is written in python programming language 3.9 and it is in no way to replace the one seen online. This can be used on the Desktop but more features will be added later.
+The BMI Calculator is a GUI program to calculate the user's Body Mass based on their weight and height. The program is written in python programming language 3.9 and it is in no way to replace the one seen online. This can be used on the Desktop but more features will be added later.</br></br>
 <b>USAGE</b></br></br>
 <b>STEP 1:</b> When the application loads, you will see the Graphical User Interface (GUI) as shown below:</br></br>
 ![BMIINTERFACE](https://github.com/Iyke3D/BMICalc/assets/118365903/5b3fbbc7-9c66-4945-94a9-6844d5ccf207)</br>
